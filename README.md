@@ -1,5 +1,5 @@
 # gitfinder
-como usar :
+#como usar :
 git clone https://github.com/eikehacker1/gitfinder.git
 cd gitfinder
 chmod +x enumerador1.py 
