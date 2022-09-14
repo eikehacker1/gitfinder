@@ -1,0 +1,10 @@
+
+.git/
+.git/COMMIT_EDITMSG
+.git/HEAD
+.git/config
+.git/descriptio
+.git/hooks/
+.git/info/
+.git/objects/
+./git/index
