@@ -1,4 +1,1 @@
-time
-requests
-urllib3
-sys
+requests==2.23.0
